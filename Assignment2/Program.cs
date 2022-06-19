@@ -8,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddTransient<IFixerService1, FixerServiceV1>();
 builder.Services.AddTransient<IFixerService2, FixerServiceV2>();
+builder.Services.AddTransient<IEmployeeService, EmployeeService>();
 
 
 // Add services to the container.

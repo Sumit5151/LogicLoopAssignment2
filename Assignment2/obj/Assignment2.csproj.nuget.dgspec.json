@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\LogicLoop\\Assignment2\\Assignment2.csproj": {}
+    "C:\\Assignment2\\Assignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\LogicLoop\\Assignment2\\Assignment2.csproj": {
+    "C:\\Assignment2\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\LogicLoop\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "C:\\Assignment2\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Projects\\LogicLoop\\Assignment2\\Assignment2.csproj",
+        "projectPath": "C:\\Assignment2\\Assignment2\\Assignment2.csproj",
         "packagesPath": "C:\\Users\\sumit\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\LogicLoop\\Assignment2\\obj\\",
+        "outputPath": "C:\\Assignment2\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
